@@ -2,7 +2,7 @@ name: Generate pacman animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # 12 saatte bir, saat başında
+    - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches: [ main ]
@@ -15,7 +15,7 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Checkout (not strictly required, but safe)
+      - name: Checkout
         uses: actions/checkout@v4
 
       - name: Generate pacman-contribution-graph.svg
@@ -28,5 +28,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          keep_history: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
