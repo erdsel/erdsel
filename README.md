@@ -2,7 +2,10 @@
 
 ###
 
+<h3 align="center">A passionate full-stack developer from Turkey.</h3>
+<h4 align="center">Electronics Engineering graduate and Computer Engineering double major student.</h4> 
 <h5 align="center">How to reach me: sherdogan253@gmail.com</h5>
+
 
 ###
 
