@@ -8,92 +8,81 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.simpleicons.org/python/3776AB" height="60" alt="python logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="60" alt="androidstudio logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.simpleicons.org/anaconda/44A833" height="60" alt="anaconda logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="60" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="60" alt="apple logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="60" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="60" alt="chrome logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.simpleicons.org/css/1572B6" height="60" alt="css logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=dart" height="60" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=discord" height="60" alt="discord logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="60" alt="docker logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="60" alt="dot-net logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=fastapi" height="60" alt="fastapi logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="60" alt="firebase logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=flask" height="60" alt="flask logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.simpleicons.org/flutter/02569B" height="60" alt="flutter logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="60" alt="git logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=gitlab" height="60" alt="gitlab logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="60" alt="javascript logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=kotlin" height="60" alt="kotlin logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.simpleicons.org/linux/FCC624" height="60" alt="linux logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=powershell" height="60" alt="powershell logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=qt" height="60" alt="qt logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=pytorch" height="60" alt="pytorch logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=raspberrypi" height="60" alt="raspberrypi logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=redis" height="60" alt="redis logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=redux" height="60" alt="redux logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=regex" height="60" alt="regex logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=replit" height="60" alt="replit logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=swift" height="60" alt="swift logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="60" alt="mongodb logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="60" alt="html5 logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.simpleicons.org/django/092E20" height="60" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="60" alt="bash logo"  />
+  <img width="10" />
 </div>
 
 ###
