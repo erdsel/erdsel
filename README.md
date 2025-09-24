@@ -2,7 +2,6 @@
 
 ###
 <h4 align="center">A passionate full-stack developer from Turkey.</h4>
-<h4 align="center">Electronics Engineering graduate and Computer Engineering double major student.</h4> 
 <div align="center">
   <a href="https://www.linkedin.com/in/erdoganselenn/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -10,7 +9,7 @@
 </div>
 <div align="center">
   <img src="https://cdn.simpleicons.org/python/3776AB" height="60" alt="python logo"  />
-  <img width="5" />
+  <img width="2" />
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="60" alt="android logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo"  />
