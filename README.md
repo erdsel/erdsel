@@ -10,19 +10,9 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="10" />
   <img src="https://cdn.simpleicons.org/python/3776AB" height="60" alt="python logo"  />
   <img width="10" />
-  <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="60" alt="androidstudio logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="60" alt="anaconda logo"  />
-  <img width="10" />
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="60" alt="android logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo"  />
   <img width="10" />
@@ -38,8 +28,6 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=fastapi" height="60" alt="fastapi logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
-  <img width="10" />
   <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="60" alt="firebase logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=flask" height="60" alt="flask logo"  />
@@ -47,8 +35,6 @@
   <img src="https://cdn.simpleicons.org/flutter/02569B" height="60" alt="flutter logo"  />
   <img width="10" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="60" alt="git logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="60" alt="gitlab logo"  />
   <img width="10" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="60" alt="javascript logo"  />
   <img width="10" />
@@ -62,13 +48,7 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="60" alt="powershell logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=qt" height="60" alt="qt logo"  />
-  <img width="10" />
   <img src="https://skillicons.dev/icons?i=pytorch" height="60" alt="pytorch logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=raspberrypi" height="60" alt="raspberrypi logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
   <img width="10" />
@@ -77,8 +57,6 @@
   <img src="https://skillicons.dev/icons?i=redux" height="60" alt="redux logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=regex" height="60" alt="regex logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=swift" height="60" alt="swift logo"  />
   <img width="10" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="60" alt="mongodb logo"  />
   <img width="10" />
